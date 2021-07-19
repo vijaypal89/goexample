@@ -1,2 +1,2 @@
-example
+Go Examples
 =======
